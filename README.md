@@ -1,7 +1,8 @@
 # EdD Analysis
 A repository to demonstrate the work I did for the quantitative analysis for my EdD thesis. 
 
-# The Data I Collected
+# About the data
+Include context info about the .csv files
 Psychometric testing questionnaires / SRQ-A / Likert scale / what the statements were about 
 
 # Analysis 
@@ -12,7 +13,7 @@ Measures of central tendency /
 _Inferential Statistics_
 
 
-# Summary of Outcomes
+# Summary of outcomes
 
 
 # What I've learned
